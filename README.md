@@ -7,8 +7,6 @@ The goal of this project is to develop an automated system that can detect and l
 1. **Download the dataset:**
 
    * Visit the following website and download the `dataset.zip` file: [dataset.zip](https://eeluedueg-my.sharepoint.com/:u:/g/personal/amohamedessa_eelu_edu_eg/EbQNvm3CprxFmHISjZMxKOEBMTrns3RD7auZM1GBqYEXNA?e=QHQchI)
-   * **Note:** Replace `[link_to_your_dataset]` with the actual URL where the `dataset.zip` file is available.
-
    * Make sure to save the downloaded `dataset.zip` file in the same directory as your Jupyter notebook file (`.ipynb`) before running the notebook.
 2. **Run the Notebook:**
 
